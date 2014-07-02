@@ -1,0 +1,1 @@
+Given the documentation of a class, create the class.

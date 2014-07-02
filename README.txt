@@ -1,0 +1,1 @@
+This repository contains past Java projects from my computer science classes.

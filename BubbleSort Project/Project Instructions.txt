@@ -1,0 +1,8 @@
+At the end of Chapter 8 of the textbook on pages 216 and 217 are two Exercises related to the Bubble Sort (#8 and #10). Your assignment is to implement the iterative and recursive versions of Bubble Sort as per #8. You will also reimplement both of these versions using the modifications discussed in #10. Give each version of the method its own name in the class BubbleSort (BubbleIter, BubbleRec, BubbleIterMod, BubbleRecMod).
+
+Your main() method will:
+
+1) create an array of, say, 100 elements
+2) fill it with random integer values (see the documentation for the class Random) in the range of, say [0, 500)
+3) sort the array using all four versions of the algorithm
+4) verify that the array has been sorted properly by calling the method boolean checkSorted(int[] a, int from, int to) that was discussed in class
